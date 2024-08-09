@@ -1,0 +1,15 @@
+gun,havaDurumu,sicaklik,nem,ruzgar,oynanirmi
+D1,gunesli,sicak,yuksek,zayif,Hayir
+D2,gunesli,sicak,yuksek,guclu,Hayir
+D3,kapali,sicak,yuksek,zayif,Evet
+D4,yagmurlu,ilik,yuksek,zayif,Evet
+D5,yagmurlu,soguk,Normal,zayif,Evet
+D6,yagmurlu,soguk,Normal,guclu,Hayir
+D7,kapali,soguk,Normal,guclu,Evet
+D8,gunesli,ilik,yuksek,zayif,Hayir
+D9,gunesli,soguk,Normal,zayif,Evet
+D10,yagmurlu,ilik,Normal,zayif,Evet
+D11,gunesli,ilik,Normal,guclu,Evet
+D12,kapali,ilik,yuksek,guclu,Evet
+D13,kapali,sicak,Normal,zayif,Evet
+D14,yagmurlu,ilik,yuksek,guclu,Hayir
