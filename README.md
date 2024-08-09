@@ -23,7 +23,9 @@ The tree formation process ends when all data belongs to a single class, no furt
 
 Entropy shows the likelihood of randomness, uncertainty, and unexpected events. This distinguishing feature is obtained through the calculation of **information gain** or the **Gini index**. In the ID3 algorithm, entropy is used to solve classification problems.
 
-![image](https://github.com/user-attachments/assets/3ba235e2-c81a-4c48-87cc-cdf230740c43)
+
+![resim](https://github.com/user-attachments/assets/f812bdde-aaea-4962-b346-1b35a11c0e10)
+
 
 n = number of situations for which entropy will be calculated  
 P(xi) = probability of the i-th situation  
@@ -35,7 +37,8 @@ When the calculated H(x) is zero or one, the entropy is zero. If H(x) is 0.5, th
 
 **Information gain** shows how well a feature splits the dataset. It is calculated as the difference between the total entropy of the dataset and the entropy of the subsets obtained when the dataset is split by a feature.
 
-![image](https://github.com/user-attachments/assets/a4cd1e71-6038-4fc9-806a-47045a14a8d3)
+![resim](https://github.com/user-attachments/assets/fbf7789e-3607-466b-87e0-102c3a9e8a13)
+
 
 Gain(S,A) refers to the gain of attribute A with respect to system S. This value is obtained by subtracting the entropy of the attribute from the entropy of the system.
 
@@ -58,8 +61,8 @@ Gain(S,A) refers to the gain of attribute A with respect to system S. This value
 # Python with ID3 Algorithm
 
 - **Dataset:**
-- ![image](https://github.com/user-attachments/assets/c126d1b3-ef9d-4e06-a10e-6a15a4f2df5e)
+![resim](https://github.com/user-attachments/assets/6d3d83f0-840a-468f-b5f3-cf25fd5231c4)
 
 - **output of the program:**
-- ![image](https://github.com/user-attachments/assets/d74969a3-27d0-4ea1-92e3-9dd7609b5c41)
+![resim](https://github.com/user-attachments/assets/a61216b1-561a-4377-891a-67397c8a519e)
 
